@@ -28,6 +28,11 @@
       "description": " NAME FOR BOT",
       "required": false,
       "value": "OFFICIAL BOT"
+    }, 
+    "ELEVENLAB_API_KEY": {
+      "description": "Put your ElevenLab api key here for Aitts. Watch tutorial from https://youtu.be/HCDcdPtkwg4 ",
+      "value": "",
+      "required" :true
     },
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
